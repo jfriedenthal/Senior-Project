@@ -1,0 +1,5 @@
+c:\users\joe\documents\visual studio 2010\Projects\Senior Project\Senior Project\bin\Senior Project.dll
+c:\users\joe\documents\visual studio 2010\Projects\Senior Project\Senior Project\bin\Senior Project.pdb
+c:\users\joe\documents\visual studio 2010\Projects\Senior Project\Senior Project\obj\Debug\ResolveAssemblyReference.cache
+c:\users\joe\documents\visual studio 2010\Projects\Senior Project\Senior Project\obj\Debug\Senior Project.dll
+c:\users\joe\documents\visual studio 2010\Projects\Senior Project\Senior Project\obj\Debug\Senior Project.pdb
